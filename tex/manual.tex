@@ -1,0 +1,54 @@
+\documentclass{book}
+
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{makeidx}
+\usepackage{tabularx}
+\usepackage{subcaption}
+
+\geometry{letterpaper}
+
+\makeindex
+
+\title{Williams Trading Manual}
+
+\author{\copyright~Copyright 2016, Williams Trading Co.\\
+ All rights reserved.}
+
+\date{July 29, 2016}
+
+\begin{document}
+	
+\maketitle
+
+\clearpage
+\pagenumbering{roman}
+\addcontentsline{toc}{section}{Table of Contents}
+\tableofcontents
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+
+\clearpage
+\pagenumbering{arabic}
+\chapter{Introduction}
+\include{introduction}
+\chapter{Handbook}
+\include{handbook}
+\chapter{Software}
+\include{software}
+\chapter{Websites}
+\include{websites}
+\chapter{Operations}
+\include{warehouse}
+\include{purchasing}
+\include{sales}
+\chapter{Appendix}
+\include{appendix}
+
+\pagebreak
+
+\printindex
+
+\end{document}
