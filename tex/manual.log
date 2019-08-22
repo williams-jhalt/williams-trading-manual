@@ -1,0 +1,940 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.22)  22 AUG 2019 12:18
+entering extended mode
+**./manual.tex
+(manual.tex
+LaTeX2e <2018-12-01>
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk10.clo"
+File: bk10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geomet
+ry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval
+.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpd
+f.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvt
+ex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxet
+ex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geomet
+ry.cfg"))
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
+cx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
+cs.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.s
+ty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gr
+aphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pd
+ftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty
+"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count92
+\float@exts=\toks16
+\float@box=\box27
+\@float@everytoks=\toks17
+\@floatcapt=\box28
+)
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\makeidx.st
+y"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\tabularx.
+sty"
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty
+"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen113
+\ar@mcellbox=\box29
+\extrarowheight=\dimen114
+\NC@list=\toks18
+\extratabsurround=\skip43
+\backup@length=\skip44
+\ar@cellbox=\box30
+)
+\TX@col@width=\dimen115
+\TX@old@table=\dimen116
+\TX@old@col=\dimen117
+\TX@target=\dimen118
+\TX@delta=\dimen119
+\TX@cols=\count93
+\TX@ftn=\toks19
+)
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcapt
+ion.sty"
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption
+.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption
+3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen120
+\captionmargin@=\dimen121
+\captionwidth=\dimen122
+\caption@tempdima=\dimen123
+\caption@indent=\dimen124
+\caption@parindent=\dimen125
+\caption@hangindent=\dimen126
+)
+\c@caption@flags=\count94
+\c@ContinuedFloat=\count95
+Package caption Info: float package is loaded.
+)
+\c@subfigure=\count96
+\c@subtable=\count97
+)
+\@indexfile=\write3
+\openout3 = `manual.idx'.
+
+
+Writing index file manual.idx
+(manual.aux (software.aux) (websites.aux) (warehouse.aux) (purchasing.aux)
+(sales.aux) (appendix.aux))
+\openout1 = `manual.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(73.71613pt, 430.00462pt, 110.57425pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=1.44614pt
+* \evensidemargin=38.30426pt
+* \topmargin=-6.94011pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\sup
+p-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count98
+\scratchdimen=\dimen127
+\scratchbox=\box31
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen128
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
+\everyMPtoPDFconversion=\toks21
+)
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstop
+df-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infw
+arerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext
+.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvde
+finekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxc
+mds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvopti
+ons.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvse
+tkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etex
+cmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflu
+atex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdft
+excmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 23.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
+
+("C:\Users\johnh.HQ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
+ [1
+
+
+{C:/Users/johnh.HQ/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(manual.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+ [1
+
+
+])
+\tf@toc=\write4
+\openout4 = `manual.toc'.
+
+ [2]
+Chapter 1.
+[1
+
+
+]
+\openout2 = `software.aux'.
+
+ (software.tex
+<../img/image55.png, id=21, 757.32938pt x 472.76625pt>
+File: ../img/image55.png Graphic file (type png)
+<use ../img/image55.png>
+Package pdftex.def Info: ../img/image55.png  used on input line 19.
+(pdftex.def)             Requested size: 430.00462pt x 268.43355pt.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
+ [2
+
+ <../img/image55.png>]
+<../img/image56.png, id=26, 757.32938pt x 472.76625pt>
+File: ../img/image56.png Graphic file (type png)
+<use ../img/image56.png>
+Package pdftex.def Info: ../img/image56.png  used on input line 60.
+(pdftex.def)             Requested size: 430.00462pt x 268.43355pt.
+ [3] [4 <../img/image56.png>]
+<../img/image57.png, id=34, 757.32938pt x 472.76625pt>
+File: ../img/image57.png Graphic file (type png)
+<use ../img/image57.png>
+Package pdftex.def Info: ../img/image57.png  used on input line 88.
+(pdftex.def)             Requested size: 430.00462pt x 268.43355pt.
+<../img/image58.png, id=35, 757.32938pt x 472.76625pt>
+File: ../img/image58.png Graphic file (type png)
+<use ../img/image58.png>
+Package pdftex.def Info: ../img/image58.png  used on input line 94.
+(pdftex.def)             Requested size: 430.00462pt x 268.43355pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <../img/image57.png>]
+<../img/image59.png, id=39, 757.32938pt x 472.76625pt>
+File: ../img/image59.png Graphic file (type png)
+<use ../img/image59.png>
+Package pdftex.def Info: ../img/image59.png  used on input line 111.
+(pdftex.def)             Requested size: 430.00462pt x 268.43355pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <../img/image58.png>] [7 <../img/image59.png>]
+<../img/image60.png, id=46, 757.32938pt x 472.76625pt>
+File: ../img/image60.png Graphic file (type png)
+<use ../img/image60.png>
+Package pdftex.def Info: ../img/image60.png  used on input line 140.
+(pdftex.def)             Requested size: 430.00462pt x 268.43355pt.
+<../img/image61.png, id=47, 757.32938pt x 472.76625pt>
+File: ../img/image61.png Graphic file (type png)
+<use ../img/image61.png>
+Package pdftex.def Info: ../img/image61.png  used on input line 146.
+(pdftex.def)             Requested size: 430.00462pt x 268.43355pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <../img/image60.png>]
+<../img/image62.png, id=51, 757.32938pt x 473.51906pt>
+File: ../img/image62.png Graphic file (type png)
+<use ../img/image62.png>
+Package pdftex.def Info: ../img/image62.png  used on input line 168.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 4913) has occurred while \output is active []
+
+ [9 <../img/image61.png>] [10 <../img/image62.png>]
+<../img/image63.png, id=59, 757.32938pt x 473.51906pt>
+File: ../img/image63.png Graphic file (type png)
+<use ../img/image63.png>
+Package pdftex.def Info: ../img/image63.png  used on input line 226.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+ [11 <../img/image63.png>]
+<../img/image64.png, id=63, 757.32938pt x 473.51906pt>
+File: ../img/image64.png Graphic file (type png)
+<use ../img/image64.png>
+Package pdftex.def Info: ../img/image64.png  used on input line 261.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+<../img/image65.png, id=67, 757.32938pt x 473.51906pt>
+File: ../img/image65.png Graphic file (type png)
+<use ../img/image65.png>
+Package pdftex.def Info: ../img/image65.png  used on input line 272.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13 <../img/image64.png>]
+<../img/image66.png, id=71, 757.32938pt x 473.51906pt>
+File: ../img/image66.png Graphic file (type png)
+<use ../img/image66.png>
+Package pdftex.def Info: ../img/image66.png  used on input line 290.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14 <../img/image65.png>]
+<../img/image67.png, id=75, 757.32938pt x 473.51906pt>
+File: ../img/image67.png Graphic file (type png)
+<use ../img/image67.png>
+Package pdftex.def Info: ../img/image67.png  used on input line 307.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15 <../img/image66.png>]
+<../img/image68.png, id=79, 757.32938pt x 473.51906pt>
+File: ../img/image68.png Graphic file (type png)
+<use ../img/image68.png>
+Package pdftex.def Info: ../img/image68.png  used on input line 324.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 3039) has occurred while \output is active []
+
+ [16 <../img/image67.png>]
+<../img/image69.png, id=84, 757.32938pt x 473.51906pt>
+File: ../img/image69.png Graphic file (type png)
+<use ../img/image69.png>
+Package pdftex.def Info: ../img/image69.png  used on input line 342.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 1112) has occurred while \output is active []
+
+ [17 <../img/image68.png>]
+<../img/image70.png, id=88, 757.32938pt x 473.51906pt>
+File: ../img/image70.png Graphic file (type png)
+<use ../img/image70.png>
+Package pdftex.def Info: ../img/image70.png  used on input line 354.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18 <../img/image69.png>]
+<../img/image71.png, id=92, 757.32938pt x 473.51906pt>
+File: ../img/image71.png Graphic file (type png)
+<use ../img/image71.png>
+Package pdftex.def Info: ../img/image71.png  used on input line 372.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19 <../img/image70.png>]
+<../img/image72.png, id=96, 757.32938pt x 473.51906pt>
+File: ../img/image72.png Graphic file (type png)
+<use ../img/image72.png>
+Package pdftex.def Info: ../img/image72.png  used on input line 389.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20 <../img/image71.png>]
+<../img/image73.png, id=100, 757.32938pt x 473.51906pt>
+File: ../img/image73.png Graphic file (type png)
+<use ../img/image73.png>
+Package pdftex.def Info: ../img/image73.png  used on input line 413.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+ [21 <../img/image72.png>]
+<../img/image74.png, id=104, 757.32938pt x 473.51906pt>
+File: ../img/image74.png Graphic file (type png)
+<use ../img/image74.png>
+Package pdftex.def Info: ../img/image74.png  used on input line 426.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22 <../img/image73.png>]
+<../img/image75.png, id=109, 757.32938pt x 473.51906pt>
+File: ../img/image75.png Graphic file (type png)
+<use ../img/image75.png>
+Package pdftex.def Info: ../img/image75.png  used on input line 443.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23 <../img/image74.png>]
+<../img/image76.png, id=113, 757.32938pt x 473.51906pt>
+File: ../img/image76.png Graphic file (type png)
+<use ../img/image76.png>
+Package pdftex.def Info: ../img/image76.png  used on input line 462.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+ [24 <../img/image75.png>] [25 <../img/image76.png>]
+<../img/image77.png, id=120, 757.32938pt x 473.51906pt>
+File: ../img/image77.png Graphic file (type png)
+<use ../img/image77.png>
+Package pdftex.def Info: ../img/image77.png  used on input line 495.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+ [26 <../img/image77.png>]
+<../img/image78.png, id=125, 757.32938pt x 473.51906pt>
+File: ../img/image78.png Graphic file (type png)
+<use ../img/image78.png>
+Package pdftex.def Info: ../img/image78.png  used on input line 525.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+<../img/image79.png, id=126, 757.32938pt x 473.51906pt>
+File: ../img/image79.png Graphic file (type png)
+<use ../img/image79.png>
+Package pdftex.def Info: ../img/image79.png  used on input line 537.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+ [27 <../img/image78.png>]
+<../img/image80.png, id=130, 757.32938pt x 473.51906pt>
+File: ../img/image80.png Graphic file (type png)
+<use ../img/image80.png>
+Package pdftex.def Info: ../img/image80.png  used on input line 552.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28 <../img/image79.png>]
+<../img/image81.png, id=135, 757.32938pt x 473.51906pt>
+File: ../img/image81.png Graphic file (type png)
+<use ../img/image81.png>
+Package pdftex.def Info: ../img/image81.png  used on input line 560.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29 <../img/image80.png>]
+<../img/image82.png, id=139, 757.32938pt x 473.51906pt>
+File: ../img/image82.png Graphic file (type png)
+<use ../img/image82.png>
+Package pdftex.def Info: ../img/image82.png  used on input line 577.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30 <../img/image81.png>]
+<../img/image83.png, id=143, 757.32938pt x 473.51906pt>
+File: ../img/image83.png Graphic file (type png)
+<use ../img/image83.png>
+Package pdftex.def Info: ../img/image83.png  used on input line 597.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31 <../img/image82.png>]
+<../img/image84.png, id=147, 757.32938pt x 473.51906pt>
+File: ../img/image84.png Graphic file (type png)
+<use ../img/image84.png>
+Package pdftex.def Info: ../img/image84.png  used on input line 613.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 7907) has occurred while \output is active []
+
+ [32 <../img/image83.png>]
+<../img/image85.png, id=151, 757.32938pt x 473.51906pt>
+File: ../img/image85.png Graphic file (type png)
+<use ../img/image85.png>
+Package pdftex.def Info: ../img/image85.png  used on input line 627.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33 <../img/image84.png>]
+<../img/image86.png, id=155, 757.32938pt x 473.51906pt>
+File: ../img/image86.png Graphic file (type png)
+<use ../img/image86.png>
+Package pdftex.def Info: ../img/image86.png  used on input line 635.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34 <../img/image85.png>]
+<../img/image87.png, id=160, 757.32938pt x 473.51906pt>
+File: ../img/image87.png Graphic file (type png)
+<use ../img/image87.png>
+Package pdftex.def Info: ../img/image87.png  used on input line 643.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35 <../img/image86.png>]
+<../img/image88.png, id=164, 757.32938pt x 473.51906pt>
+File: ../img/image88.png Graphic file (type png)
+<use ../img/image88.png>
+Package pdftex.def Info: ../img/image88.png  used on input line 651.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36 <../img/image87.png>]
+<../img/image89.png, id=168, 757.32938pt x 473.51906pt>
+File: ../img/image89.png Graphic file (type png)
+<use ../img/image89.png>
+Package pdftex.def Info: ../img/image89.png  used on input line 666.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37 <../img/image88.png>]
+<../img/image90.png, id=172, 757.32938pt x 473.51906pt>
+File: ../img/image90.png Graphic file (type png)
+<use ../img/image90.png>
+Package pdftex.def Info: ../img/image90.png  used on input line 679.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38 <../img/image89.png>]
+<../img/image91.png, id=176, 757.32938pt x 473.51906pt>
+File: ../img/image91.png Graphic file (type png)
+<use ../img/image91.png>
+Package pdftex.def Info: ../img/image91.png  used on input line 692.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39 <../img/image90.png>] [40 <../img/image91.png>]
+<../img/image92.png, id=184, 757.32938pt x 473.51906pt>
+File: ../img/image92.png Graphic file (type png)
+<use ../img/image92.png>
+Package pdftex.def Info: ../img/image92.png  used on input line 718.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+ [41 <../img/image92.png>]
+<../img/image93.png, id=188, 757.32938pt x 473.51906pt>
+File: ../img/image93.png Graphic file (type png)
+<use ../img/image93.png>
+Package pdftex.def Info: ../img/image93.png  used on input line 768.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 3460) has occurred while \output is active []
+
+ [42]
+<../img/image94.png, id=192, 693.34032pt x 411.78844pt>
+File: ../img/image94.png Graphic file (type png)
+<use ../img/image94.png>
+Package pdftex.def Info: ../img/image94.png  used on input line 773.
+(pdftex.def)             Requested size: 430.00462pt x 255.39415pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43 <../img/image93.png>] [44 <../img/image94.png>]
+<../img/image95.png, id=199, 757.32938pt x 473.51906pt>
+File: ../img/image95.png Graphic file (type png)
+<use ../img/image95.png>
+Package pdftex.def Info: ../img/image95.png  used on input line 812.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+<../img/image96.png, id=200, 757.32938pt x 473.51906pt>
+File: ../img/image96.png Graphic file (type png)
+<use ../img/image96.png>
+Package pdftex.def Info: ../img/image96.png  used on input line 826.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+ [45 <../img/image95.png>]
+<../img/image5.png, id=204, 758.08218pt x 472.76625pt>
+File: ../img/image5.png Graphic file (type png)
+<use ../img/image5.png>
+Package pdftex.def Info: ../img/image5.png  used on input line 848.
+(pdftex.def)             Requested size: 430.00462pt x 268.16664pt.
+
+Underfull \vbox (badness 3138) has occurred while \output is active []
+
+ [46 <../img/image96.png>] [47 <../img/image5.png>] [48]
+<../img/image97.png, id=217, 757.32938pt x 473.51906pt>
+File: ../img/image97.png Graphic file (type png)
+<use ../img/image97.png>
+Package pdftex.def Info: ../img/image97.png  used on input line 930.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+ [49 <../img/image97.png>]
+<../img/image98.png, id=221, 757.32938pt x 473.51906pt>
+File: ../img/image98.png Graphic file (type png)
+<use ../img/image98.png>
+Package pdftex.def Info: ../img/image98.png  used on input line 954.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+ [50 <../img/image98.png>]
+<../img/image99.png, id=225, 757.32938pt x 473.51906pt>
+File: ../img/image99.png Graphic file (type png)
+<use ../img/image99.png>
+Package pdftex.def Info: ../img/image99.png  used on input line 991.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+<../img/image100.png, id=226, 757.32938pt x 473.51906pt>
+File: ../img/image100.png Graphic file (type png)
+<use ../img/image100.png>
+Package pdftex.def Info: ../img/image100.png  used on input line 1009.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+ [51 <../img/image99.png>] [52 <../img/image100.png>]
+<../img/image101.png, id=234, 757.32938pt x 473.51906pt>
+File: ../img/image101.png Graphic file (type png)
+<use ../img/image101.png>
+Package pdftex.def Info: ../img/image101.png  used on input line 1063.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [53]
+<../img/image53.png, id=238, 757.32938pt x 473.51906pt>
+File: ../img/image53.png Graphic file (type png)
+<use ../img/image53.png>
+Package pdftex.def Info: ../img/image53.png  used on input line 1086.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+[54 <../img/image101.png>]
+<../img/image54.png, id=242, 757.32938pt x 473.51906pt>
+File: ../img/image54.png Graphic file (type png)
+<use ../img/image54.png>
+Package pdftex.def Info: ../img/image54.png  used on input line 1093.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [55 <../img/image53.png>]
+File: ../img/image5.png Graphic file (type png)
+<use ../img/image5.png>
+Package pdftex.def Info: ../img/image5.png  used on input line 1106.
+(pdftex.def)             Requested size: 430.00462pt x 268.16664pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56 <../img/image54.png>]
+<../img/image6.png, id=249, 757.32938pt x 475.02469pt>
+File: ../img/image6.png Graphic file (type png)
+<use ../img/image6.png>
+Package pdftex.def Info: ../img/image6.png  used on input line 1115.
+(pdftex.def)             Requested size: 430.00462pt x 269.71587pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57]
+<../img/image7.png, id=253, 757.32938pt x 473.51906pt>
+File: ../img/image7.png Graphic file (type png)
+<use ../img/image7.png>
+Package pdftex.def Info: ../img/image7.png  used on input line 1124.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [58 <../img/image6.png>]
+<../img/image8.png, id=259, 756.57657pt x 470.50781pt>
+File: ../img/image8.png Graphic file (type png)
+<use ../img/image8.png>
+Package pdftex.def Info: ../img/image8.png  used on input line 1133.
+(pdftex.def)             Requested size: 430.00462pt x 267.41685pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [59 <../img/image7.png>] [60 <../img/image8.png>]) [61] [62
+
+
+]
+Chapter 2.
+[63]
+\openout2 = `websites.aux'.
+
+ (websites.tex
+Overfull \hbox (14.66183pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/n/10 aged from within ERP One, and the cat-e-go-riza-tion is man-age
+d through the WHOLESALE.WILLIAMS-
+ []
+
+[64
+
+]
+Underfull \vbox (badness 3179) has occurred while \output is active []
+
+ [65]
+Overfull \hbox (14.66183pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 aged from within ERP One, and the cat-e-go-riza-tion is man-age
+d through the WHOLESALE.WILLIAMS-
+ []
+
+[66] [67] [68]) [69] [70
+
+
+]
+Chapter 3.
+[71]
+\openout2 = `warehouse.aux'.
+
+ (warehouse.tex
+<../img/image48.png, id=303, 941.01563pt x 657.2053pt>
+File: ../img/image48.png Graphic file (type png)
+<use ../img/image48.png>
+Package pdftex.def Info: ../img/image48.png  used on input line 28.
+(pdftex.def)             Requested size: 171.99922pt x 120.11696pt.
+<../img/image47.png, id=304, 941.01563pt x 657.2053pt>
+File: ../img/image47.png Graphic file (type png)
+<use ../img/image47.png>
+Package pdftex.def Info: ../img/image47.png  used on input line 33.
+(pdftex.def)             Requested size: 171.99922pt x 120.11696pt.
+<../img/image49.png, id=305, 941.01563pt x 657.2053pt>
+File: ../img/image49.png Graphic file (type png)
+<use ../img/image49.png>
+Package pdftex.def Info: ../img/image49.png  used on input line 47.
+(pdftex.def)             Requested size: 171.99922pt x 120.11696pt.
+<../img/image50.png, id=306, 941.01563pt x 657.2053pt>
+File: ../img/image50.png Graphic file (type png)
+<use ../img/image50.png>
+Package pdftex.def Info: ../img/image50.png  used on input line 52.
+(pdftex.def)             Requested size: 171.99922pt x 120.11696pt.
+ [72
+
+ <../img/image48.png> <../img/image47.png>]
+<../img/image46.png, id=312, 284.56313pt x 158.84344pt>
+File: ../img/image46.png Graphic file (type png)
+<use ../img/image46.png>
+Package pdftex.def Info: ../img/image46.png  used on input line 70.
+(pdftex.def)             Requested size: 215.0023pt x 120.01938pt.
+<../img/image1.png, id=313, 758.08218pt x 475.02469pt>
+File: ../img/image1.png Graphic file (type png)
+<use ../img/image1.png>
+Package pdftex.def Info: ../img/image1.png  used on input line 81.
+(pdftex.def)             Requested size: 430.00462pt x 269.4477pt.
+
+Underfull \vbox (badness 3098) has occurred while \output is active []
+
+ [73 <../img/image49.png> <../img/image50.png> <../img/image46.png>]
+<../img/image2.png, id=317, 757.32938pt x 473.51906pt>
+File: ../img/image2.png Graphic file (type png)
+<use ../img/image2.png>
+Package pdftex.def Info: ../img/image2.png  used on input line 88.
+(pdftex.def)             Requested size: 430.00462pt x 268.86098pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [74 <../img/image1.png>]
+<../img/image3.png, id=322, 758.08218pt x 473.51906pt>
+File: ../img/image3.png Graphic file (type png)
+<use ../img/image3.png>
+Package pdftex.def Info: ../img/image3.png  used on input line 95.
+(pdftex.def)             Requested size: 430.00462pt x 268.59364pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [75 <../img/image2.png>]
+<../img/image4.png, id=327, 359.09157pt x 301.8778pt>
+File: ../img/image4.png Graphic file (type png)
+<use ../img/image4.png>
+Package pdftex.def Info: ../img/image4.png  used on input line 105.
+(pdftex.def)             Requested size: 215.0023pt x 180.75035pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [76 <../img/image3.png>]
+<../img/image51.png, id=333, 813.0375pt x 534.49687pt>
+File: ../img/image51.png Graphic file (type png)
+<use ../img/image51.png>
+Package pdftex.def Info: ../img/image51.png  used on input line 112.
+(pdftex.def)             Requested size: 430.00462pt x 282.68661pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77 <../img/image4.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [78 <../img/image51.png>]
+<../img/image40.png, id=341, 756.57657pt x 474.27188pt>
+File: ../img/image40.png Graphic file (type png)
+<use ../img/image40.png>
+Package pdftex.def Info: ../img/image40.png  used on input line 129.
+(pdftex.def)             Requested size: 430.00462pt x 269.5562pt.
+<../img/image42.png, id=342, 220.57407pt x 258.9675pt>
+File: ../img/image42.png Graphic file (type png)
+<use ../img/image42.png>
+Package pdftex.def Info: ../img/image42.png  used on input line 135.
+(pdftex.def)             Requested size: 215.0023pt x 252.43497pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79 <../img/image40.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80 <../img/image42.png>]
+<../img/image43.png, id=351, 730.22812pt x 576.65437pt>
+File: ../img/image43.png Graphic file (type png)
+<use ../img/image43.png>
+Package pdftex.def Info: ../img/image43.png  used on input line 152.
+(pdftex.def)             Requested size: 430.00462pt x 339.57199pt.
+ [81 <../img/image43.png>]
+<../img/image44.png, id=355, 730.22812pt x 576.65437pt>
+File: ../img/image44.png Graphic file (type png)
+<use ../img/image44.png>
+Package pdftex.def Info: ../img/image44.png  used on input line 159.
+(pdftex.def)             Requested size: 430.00462pt x 339.57199pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [82 <../img/image44.png>] [83] [84] [85] [86]) [87]
+\openout2 = `purchasing.aux'.
+
+ (purchasing.tex) [88
+
+
+]
+\openout2 = `sales.aux'.
+
+ (sales.tex)
+[89
+
+
+] [90
+
+
+]
+Chapter 4.
+[91]
+\openout2 = `appendix.aux'.
+
+ (appendix.tex) [92
+
+]
+No file manual.ind.
+(manual.aux (software.aux) (websites.aux) (warehouse.aux) (purchasing.aux)
+(sales.aux) (appendix.aux)) ) 
+Here is how much of TeX's memory you used:
+ 3698 strings out of 492895
+ 61470 string characters out of 3122334
+ 134093 words of memory out of 3000000
+ 7468 multiletter control sequences out of 15000+200000
+ 10632 words of font info for 37 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,11n,41p,721b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/johnh.HQ/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/johnh.HQ/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/johnh.HQ
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:
+/Users/johnh.HQ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr10.pfb><C:/Users/johnh.HQ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb><C:/Users/johnh.HQ/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/johnh.HQ/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/johnh.HQ/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users
+/johnh.HQ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl
+10.pfb><C:/Users/johnh.HQ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><C:/Users/johnh.HQ/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/johnh.HQ/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on manual.pdf (95 pages, 5584118 bytes).
+PDF statistics:
+ 432 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 336 words of extra memory for PDF output out of 10000 (max. 10000000)
+
